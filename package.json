@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/md-invt05/front.git",
+  "author": "Maxim <maks.degtearyov25@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
